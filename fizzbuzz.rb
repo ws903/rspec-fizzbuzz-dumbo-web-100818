@@ -10,5 +10,5 @@ def fizzbuzz(num)
     out = nil
   end
   
-  return nil
+  return out
 end
