@@ -1,8 +1,8 @@
 def fizzbuzz(num)
   out = ''
-  if fizzbuzz%3 == 0
+  if num%3 == 0
     out+='fizz'
-  elsif fizzbuzz%5 == 0
+  elsif num%5 == 0
     out+='buzz'
   end
   
